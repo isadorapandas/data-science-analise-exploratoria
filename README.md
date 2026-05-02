@@ -1,5 +1,5 @@
 # data-science-analise-exploratoria
-Início da análise exploratória de um conjunto de dados do MovieLens.
+Início da análise exploratória de um conjunto de dados do MovieLens e um do TMDb.
 
 Os arquivos utilizados foram:
 
